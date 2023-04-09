@@ -1,13 +1,35 @@
 body {
     margin: 0;
     text-align: center;
+    font-family: 'Sacramento', cursive;
 }
 
-img {
+.sakura {
     height: 100%;
+    padding: 0;
+}
+
+.kara {
+    border-radius: 100%;
+    max-width: 50%;
+    margin-top: 10%;
+
+
+}
+
+.about-text {
+    margin: 30%;
+    font-size: 46px;
+}
+
+
+
+#about {
+    text-align: center;
+    background-color: #FDF4F5;
 }
 
 .banner {
     position: absolute;
-    top: 30%;
+    top: 20%;
 }
