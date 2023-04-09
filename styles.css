@@ -5,31 +5,58 @@ body {
 }
 
 .sakura {
-    height: 100%;
+    height: 25rem;
     padding: 0;
 }
 
 .kara {
     border-radius: 100%;
     max-width: 50%;
-    margin-top: 10%;
+    max-height: fit-content;
+    margin: 7%;
 
 
 }
 
 .about-text {
-    margin: 30%;
-    font-size: 46px;
+
+    font-size: 2.5rem;
+    padding: 4rem;
 }
 
 
-
 #about {
-    text-align: center;
+    
     background-color: #FDF4F5;
+    margin: 0;
+    
 }
 
 .banner {
     position: absolute;
     top: 20%;
+}
+
+.btn {
+    font-family: 'Outfit', sans-serif;
+    font-size: 2rem;
+}
+
+.h1 {
+    font-size: 4.5rem;
+}
+
+.navbar {
+    font-family: 'Outfit', sans-serif;
+}
+
+footer {
+    margin: 0;
+    background-color: black;
+    color: white;
+    
+}
+
+p {
+    margin: 0;
 }
